@@ -1,0 +1,253 @@
+{
+  "_nota": "ALBA MARIS (cosmetica di lusso, DEMO). Catalogo piatto: categorie senza reparti. Prezzi in centesimi. Fonte UNICA di /negozio/ e delle pagine prodotto. L'id \"categoria\" e' riservato. Testi e formule di esempio: da verificare prima della vendita.",
+  "categorie": [
+    {
+      "id": "creme-viso",
+      "nome": "Creme viso",
+      "icona": ""
+    },
+    {
+      "id": "contorno-occhi",
+      "nome": "Contorno occhi",
+      "icona": ""
+    },
+    {
+      "id": "creme-mani",
+      "nome": "Creme mani",
+      "icona": ""
+    },
+    {
+      "id": "creme-corpo",
+      "nome": "Creme corpo",
+      "icona": ""
+    },
+    {
+      "id": "labbra",
+      "nome": "Labbra",
+      "icona": ""
+    },
+    {
+      "id": "set-regalo",
+      "nome": "Set regalo",
+      "icona": ""
+    }
+  ],
+  "prodotti": [
+    {
+      "id": "la-crema-originale",
+      "nome": "La Crema Originale",
+      "descrizione": "La crema simbolo di Alba Maris: ricca, avvolgente, per una pelle morbida e luminosa.",
+      "descrizione_completa": "Il cuore della collezione.\nUna texture ricca che si scioglie al calore delle dita e lascia la pelle morbida, confortata e luminosa.\nFormulata con estratto di alga bruna e oli preziosi.\nUso: mattina e sera su viso e collo.",
+      "categoria": "creme-viso",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 32000,
+      "immagine": "assets/img/prodotti/la-crema-originale.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-leggera-giorno",
+      "nome": "Crema Leggera Giorno",
+      "descrizione": "Texture fresca e setosa, ideale sotto il trucco.",
+      "descrizione_completa": "Una crema fluida che si assorbe subito.\nIdrata senza appesantire e prepara la pelle al make-up.\nUso: ogni mattina su viso e collo.",
+      "categoria": "creme-viso",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 24000,
+      "immagine": "assets/img/prodotti/crema-leggera-giorno.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-notte-rigenerante",
+      "nome": "Crema Notte Rigenerante",
+      "descrizione": "Ricca e avvolgente, accompagna il riposo della pelle.",
+      "descrizione_completa": "Una crema da notte dalla texture piena.\nNutre mentre dormi e al risveglio la pelle appare riposata.\nUso: ogni sera su viso e collo.",
+      "categoria": "creme-viso",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 29000,
+      "immagine": "assets/img/prodotti/crema-notte-rigenerante.svg",
+      "visibile": true
+    },
+    {
+      "id": "contorno-occhi-concentrato",
+      "nome": "Contorno Occhi Concentrato",
+      "descrizione": "Cura concentrata per uno sguardo più riposato.",
+      "descrizione_completa": "Una formula mirata e delicata.\nRinfresca e leviga la zona dell'occhio.\nUso: picchiettare con l'anulare mattina e sera.",
+      "categoria": "contorno-occhi",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 22000,
+      "immagine": "assets/img/prodotti/contorno-occhi-concentrato.svg",
+      "visibile": true
+    },
+    {
+      "id": "balsamo-occhi-intenso",
+      "nome": "Balsamo Occhi Intenso",
+      "descrizione": "Un balsamo ricco per la pelle più sottile del viso.",
+      "descrizione_completa": "Una texture burrosa che nutre a fondo.\nIdeale la sera, per svegliarsi con uno sguardo più disteso.\nUso: una piccola quantità ogni sera.",
+      "categoria": "contorno-occhi",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 23500,
+      "immagine": "assets/img/prodotti/balsamo-occhi-intenso.svg",
+      "visibile": true
+    },
+    {
+      "id": "siero-occhi-lifting",
+      "nome": "Siero Occhi Lifting",
+      "descrizione": "Siero fresco con applicatore che dona tono.",
+      "descrizione_completa": "Un siero leggero con applicatore a sfera.\nDa usare al mattino per un effetto fresco e tonico.\nUso: mattina, prima della crema.",
+      "categoria": "contorno-occhi",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 20500,
+      "immagine": "assets/img/prodotti/siero-occhi-lifting.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-mani-seta",
+      "nome": "Crema Mani Seta",
+      "descrizione": "Texture vellutata che si assorbe subito e lascia le mani morbide.",
+      "descrizione_completa": "Una crema mani leggera, mai unta.\nSi assorbe in pochi secondi e profuma delicatamente.\nUso: ogni volta che serve, anche in borsa.",
+      "categoria": "creme-mani",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 6800,
+      "immagine": "assets/img/prodotti/crema-mani-seta.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-mani-notte",
+      "nome": "Crema Mani Notte",
+      "descrizione": "Ricca, da applicare la sera per mani riposate al mattino.",
+      "descrizione_completa": "Una formula piena che nutre a fondo.\nUso: massaggiare sulle mani la sera.",
+      "categoria": "creme-mani",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 7200,
+      "immagine": "assets/img/prodotti/crema-mani-notte.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-mani-unghie",
+      "nome": "Crema Mani e Unghie",
+      "descrizione": "Nutre le mani e si prende cura di unghie e cuticole.",
+      "descrizione_completa": "Una crema ricca di oli vegetali.\nUso: massaggiare anche su unghie e cuticole.",
+      "categoria": "creme-mani",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 5800,
+      "immagine": "assets/img/prodotti/crema-mani-unghie.svg",
+      "visibile": true
+    },
+    {
+      "id": "crema-corpo-ricca",
+      "nome": "Crema Corpo Ricca",
+      "descrizione": "Una crema corpo avvolgente per una pelle morbida.",
+      "descrizione_completa": "Texture ricca e profumo delicato di mare.\nUso: dopo la doccia su tutto il corpo.",
+      "categoria": "creme-corpo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 14000,
+      "immagine": "assets/img/prodotti/crema-corpo-ricca.svg",
+      "visibile": true
+    },
+    {
+      "id": "latte-corpo-leggero",
+      "nome": "Latte Corpo Leggero",
+      "descrizione": "Fluido e fresco, si assorbe all'istante.",
+      "descrizione_completa": "Un latte leggero, adatto anche all'estate.\nUso: ogni giorno su tutto il corpo.",
+      "categoria": "creme-corpo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 12000,
+      "immagine": "assets/img/prodotti/latte-corpo-leggero.svg",
+      "visibile": true
+    },
+    {
+      "id": "burro-corpo-alghe",
+      "nome": "Burro Corpo alle Alghe",
+      "descrizione": "Un burro ricco con estratto di alga bruna.",
+      "descrizione_completa": "Per le pelli più secche e nei mesi freddi.\nUso: massaggiare dopo il bagno.",
+      "categoria": "creme-corpo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 16000,
+      "immagine": "assets/img/prodotti/burro-corpo-alghe.svg",
+      "visibile": true
+    },
+    {
+      "id": "balsamo-labbra-originale",
+      "nome": "Balsamo Labbra Originale",
+      "descrizione": "Il balsamo che protegge e ammorbidisce.",
+      "descrizione_completa": "Un balsamo in stick, pratico e cremoso.\nUso: ogni volta che serve.",
+      "categoria": "labbra",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 4500,
+      "immagine": "assets/img/prodotti/balsamo-labbra-originale.svg",
+      "visibile": true
+    },
+    {
+      "id": "maschera-labbra-notte",
+      "nome": "Maschera Labbra Notte",
+      "descrizione": "Una maschera ricca per labbra morbide al risveglio.",
+      "descrizione_completa": "Da applicare la sera in uno strato generoso.\nUso: ogni sera.",
+      "categoria": "labbra",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 5200,
+      "immagine": "assets/img/prodotti/maschera-labbra-notte.svg",
+      "visibile": true
+    },
+    {
+      "id": "balsamo-labbra-perla",
+      "nome": "Balsamo Labbra Perla",
+      "descrizione": "Un velo di luce e di morbidezza.",
+      "descrizione_completa": "Un balsamo con riflessi perlati.\nUso: ogni volta che serve.",
+      "categoria": "labbra",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 3800,
+      "immagine": "assets/img/prodotti/balsamo-labbra-perla.svg",
+      "visibile": true
+    },
+    {
+      "id": "set-rituale-viso",
+      "nome": "Set Rituale Viso",
+      "descrizione": "La Crema Originale e il Contorno Occhi Concentrato in confezione regalo.",
+      "descrizione_completa": "Il set perfetto per iniziare.\nContiene La Crema Originale (50 ml) e il Contorno Occhi Concentrato (15 ml).",
+      "categoria": "set-regalo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 49000,
+      "immagine": "assets/img/prodotti/set-rituale-viso.svg",
+      "visibile": true
+    },
+    {
+      "id": "set-mani-labbra",
+      "nome": "Set Mani e Labbra",
+      "descrizione": "Crema Mani Seta e Balsamo Labbra Originale in confezione regalo.",
+      "descrizione_completa": "Un regalo piccolo e prezioso.\nContiene Crema Mani Seta (75 ml) e Balsamo Labbra Originale (10 g).",
+      "categoria": "set-regalo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 9800,
+      "immagine": "assets/img/prodotti/set-mani-labbra.svg",
+      "visibile": true
+    },
+    {
+      "id": "set-corpo-benessere",
+      "nome": "Set Corpo Benessere",
+      "descrizione": "Crema Corpo Ricca e Burro Corpo alle Alghe in confezione regalo.",
+      "descrizione_completa": "Per concedersi una coccola.\nContiene Crema Corpo Ricca (200 ml) e Burro Corpo alle Alghe (200 ml).",
+      "categoria": "set-regalo",
+      "icona": "✦",
+      "tipo": "fisico",
+      "prezzo_centesimi": 25000,
+      "immagine": "assets/img/prodotti/set-corpo-benessere.svg",
+      "visibile": true
+    }
+  ]
+}
