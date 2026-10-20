@@ -1,3 +1,6 @@
+# MAISON AURELIA (candeleprofumate) - 20/10/2026
+Questa repo e' il clone di beauty riscritto come candele e profumi per ambiente di lusso (brand provvisorio Maison Aurelia). Catalogo PIATTO: 6 categorie in ORDINE DI PROFITTO (set regalo, profumi per ambiente, candele di lusso, mini, spray, accessori), 18 prodotti demo con foto SVG in `assets/img/prodotti/`. Tutto generato da `claudetemp\rebrand_candele.py` (dati in `candele_data.py`, rilanciabile; generato da `mk_rebrand_candele.py`). Palette: nero caldo #1c1613 e oro. Le sezioni sotto descrivono ancora pelletteria/beauty: la struttura tecnica (e-commerce, admin, blocchi home) e' identica.
+
 # ALBA MARIS (beauty) - 20/10/2026
 Questa repo e' il clone di pelletteria riscritto come cosmetica di lusso (brand provvisorio Alba Maris). Catalogo PIATTO: 6 categorie senza reparti, 18 prodotti demo con foto SVG in `assets/img/prodotti/`. Tutto generato da `claudetemp\rebrand_beauty.py` (dati in CATS e PRODS, rilanciabile). Palette: blu mare #12333b al posto del marrone. Le sezioni sotto descrivono ancora la pelletteria: la struttura tecnica (e-commerce, admin, blocchi home) e' identica.
 

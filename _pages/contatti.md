@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contatti"
-seo_title: "Contatti | Alba Maris"
+seo_title: "Contatti | Maison Aurelia"
 seo_description: "Scrivici cosa ti serve o quale prodotto cerchi: ti rispondiamo entro 24 ore, festivi esclusi."
 permalink: /contatti/
 ---
@@ -17,7 +17,7 @@ permalink: /contatti/
   accetti il dominio di questo sito (campo "sito" = location.hostname).
 {%- endcomment -%}
 
-<p class="cf-intro">Dicci quale prodotto ti interessa o che tipo di pelle hai: ti rispondiamo entro 24 ore, festivi esclusi.</p>
+<p class="cf-intro">Dicci quale prodotto ti interessa o per quale occasione cerchi un regalo: ti rispondiamo entro 24 ore, festivi esclusi.</p>
 
 <style>
 .cf-wrap,.cf-intro{max-width:520px;margin-left:auto;margin-right:auto}
@@ -54,7 +54,7 @@ permalink: /contatti/
   </div>
   <div class="cf-campo">
     <label for="cf-msg">Cosa ti serve?</label>
-    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Esempio: vorrei un consiglio sulla crema più adatta alla mia pelle."></textarea>
+    <textarea id="cf-msg" name="messaggio" rows="5" maxlength="3000" required placeholder="Esempio: cerco un regalo con una fragranza calda e avvolgente."></textarea>
   </div>
   <div style="position:absolute;left:-9999px;height:0;overflow:hidden" aria-hidden="true">
     <label for="cf-web">Non compilare</label>
